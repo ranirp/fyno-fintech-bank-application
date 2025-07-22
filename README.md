@@ -80,4 +80,6 @@ Open `http://localhost:3000` in your browser.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](./LICENSE) - see the LICENSE file for details.
+
+ <h3 align="center"> ʘ‿ʘ </h3>
